@@ -59,7 +59,7 @@ This Dataset contains:
 
 ## 7. How to run the Project
 
-1. Install the required dependencies using pip install -r requirements.txt.
+1. Install the required dependencies using `pip install -r requirements.txt`.
 
 2. Run the Jupyter Notebook step by step.
 
